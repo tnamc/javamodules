@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DailyAdviceClient/DailyAdviceClient.iml" filepath="$PROJECT_DIR$/DailyAdviceClient/DailyAdviceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DailyAdviceServer/DailyAdviceServer.iml" filepath="$PROJECT_DIR$/DailyAdviceServer/DailyAdviceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DotComBust/DotComBust.iml" filepath="$PROJECT_DIR$/DotComBust/DotComBust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise9_1/Exercise9_1.iml" filepath="$PROJECT_DIR$/Exercise9_1/Exercise9_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise9_2/Exercise9_2.iml" filepath="$PROJECT_DIR$/Exercise9_2/Exercise9_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameSaver/GameSaver.iml" filepath="$PROJECT_DIR$/GameSaver/GameSaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pong21/Pong21.iml" filepath="$PROJECT_DIR$/Pong21/Pong21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SehrEinfacherChatServer2/SehrEinfacherChatServer2.iml" filepath="$PROJECT_DIR$/SehrEinfacherChatServer2/SehrEinfacherChatServer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoButtons/TwoButtons.iml" filepath="$PROJECT_DIR$/TwoButtons/TwoButtons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hfu_practices.iml" filepath="$PROJECT_DIR$/.idea/hfu_practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepforexam/prepforexam.iml" filepath="$PROJECT_DIR$/prepforexam/prepforexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleChatClient/simpleChatClient.iml" filepath="$PROJECT_DIR$/simpleChatClient/simpleChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleChatServer/simpleChatServer.iml" filepath="$PROJECT_DIR$/simpleChatServer/simpleChatServer.iml" />
+    </modules>
+  </component>
+</project>
